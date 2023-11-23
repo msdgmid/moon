@@ -1,1 +1,2 @@
+# git clone
 git clone https://github.com/youtube-jocoding/pyupbit-autotrade.git
